@@ -2,7 +2,7 @@
 	"Configurations": [
 		{
 		"Version": "1.0.0",
-		"URL": "https://example.com/myimages/Basic-OTA-Example.bin"
+		"URL": "https://raw.githubusercontent.com/ElcRcp/httpOtaTest/refs/heads/main/main_v1_0.ino.bin"
 		}
 	]
 }
