@@ -1,8 +1,8 @@
 {
 	"Configurations": [
 		{
-		"Version": "0.4.0",
-		"URL": "https://raw.githubusercontent.com/ElcRcp/httpOtaTest/refs/heads/main/handheld_showcase_ver03.ino.bin"
+		"Version": "0.4.1",
+		"URL": "https://raw.githubusercontent.com/ElcRcp/httpOtaTest/refs/heads/main/Nucsense_Ranger_Demo_v04.ino.bin"
 		}
 	]
 }
