@@ -1,8 +1,8 @@
 {
 	"Configurations": [
 		{
-		"Version": "1.0.2",
-		"URL": "https://raw.githubusercontent.com/ElcRcp/httpOtaTest/refs/heads/main/Nucsense_Ranger_MASTER_v102.ino.bin"
+		"Version": "1.0.3",
+		"URL": "https://raw.githubusercontent.com/ElcRcp/httpOtaTest/refs/heads/main/Nucsense_Ranger_MASTER_v103.ino.bin"
 		}
 	]
 }
