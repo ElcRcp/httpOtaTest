@@ -1,8 +1,8 @@
 {
 	"Configurations": [
 		{
-		"Version": "1.5.5",
-		"URL": "https://raw.githubusercontent.com/ElcRcp/httpOtaTest/refs/heads/main/nshx_v005.ino.bin"
+		"Version": "1.5.7",
+		"URL": "https://raw.githubusercontent.com/ElcRcp/httpOtaTest/refs/heads/main/nshx_v007.ino.bin"
 		}
 	]
 }
